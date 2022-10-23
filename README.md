@@ -1,2 +1,2 @@
 # Genetic algorithm
-Repository for algorithm genetic scripts in elixir and matlab
+Repository for Genetic algorithm scripts in elixir and matlab
